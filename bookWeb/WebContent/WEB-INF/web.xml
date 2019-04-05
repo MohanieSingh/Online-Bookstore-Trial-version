@@ -9,6 +9,7 @@ id="WebApp_ID" version="3.0">
 <servlet> 
 <servlet-name>BookServlet</servlet-name> 
 <servlet-class>com.apress.bookweb.controller.BookController</servlet-class>
+
 <init-param> 
 <param-name>base</param-name> 
 <param-value>/bookWeb/books</param-value> 
